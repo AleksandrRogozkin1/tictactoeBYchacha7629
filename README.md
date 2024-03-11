@@ -1,4 +1,4 @@
-discord: chacha7629
+Discord: chacha7629
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
